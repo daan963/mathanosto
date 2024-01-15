@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ncaafootballinfo.com/sitemap_index.xml
+Sitemap: https://awverify.techsupport.steelcase.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
