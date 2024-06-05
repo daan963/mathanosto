@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tg.dnset.com/sitemap.xml
